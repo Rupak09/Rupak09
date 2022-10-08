@@ -1,4 +1,4 @@
-     Hi there..!
+     RUPAK R 
 - 👋 Hi, I’m Rupak!
 - 👀 I’m interested in exploring new opportunities in Web & App development.
 - 🌱 I’m currently pursuing my Bachelors from Computer Science.
