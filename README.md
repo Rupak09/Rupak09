@@ -1,14 +1,17 @@
 # 💫 About Me:
- Moonlight Coder and Nocturnal Dreamer 🌙💻
-Welcome to the world of a coding enthusiast who thrives in the nocturnal realm, weaving lines of code under the gentle glow of moonlight. Embracing the quietude of the night, this weeb by nature, finds solace in the rhythmic dance of keyboard keys and the hum of a computer running its midnight symphony.
+<br> Moonlight Coder and Nocturnal Dreamer💻<br>
 
-About Me
+<br> Welcome to the world of a coding enthusiast who thrives in the nocturnal realm, weaving lines of code under the gentle glow of moonlight. Embracing the quietude of the night, this weeb by nature, finds solace in the rhythmic dance of keyboard keys and the hum of a computer running its midnight symphony.<br>
+
+<br>
 🌌 Nighttime Alchemist: Specializing in the art of turning ideas into lines of code when the world is fast asleep.
 
 🌙 Dreamer's Sanctuary: Sleep is reserved for the morning hours, as creativity blossoms when the stars take center stage.
+<br>
 
-Current Mission
-Embarking on a journey to blend the intricacies of coding with the enchantment of moonlit hours, this coding weeb is on a quest to create magic within the digital realm.
+<br>Current Mission<br>
+
+<br >Embarking on a journey to blend the intricacies of coding with the enchantment of moonlit hours, this coding weeb is on a quest to create magic within the digital realm.<br>
  
 
 
