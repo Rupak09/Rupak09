@@ -11,7 +11,7 @@
 
 <br>Current Mission<br>
 
-<br >Embarking on a journey to blend the intricacies of coding with the enchantment of moonlit hours, this coding weeb is on a quest to create magic within the digital realm.<br>
+<br>Embarking on a journey to blend the intricacies of coding with the enchantment of moonlit hours, this coding weeb is on a quest to create magic within the digital realm.<br>
  
 
 
