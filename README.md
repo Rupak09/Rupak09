@@ -1,5 +1,15 @@
 # 💫 About Me:
-👋 Hi, I’m Rupak!<br><br>👀 I’m interested in exploring new opportunities in Web & App development.<br><br>🌱 I’m currently pursuing my bachelor's in Computer Science.<br>      <br>🧑‍💻 Recently started contribution to Open-source.<br><br><br>      
+ Moonlight Coder and Nocturnal Dreamer 🌙💻
+Welcome to the world of a coding enthusiast who thrives in the nocturnal realm, weaving lines of code under the gentle glow of moonlight. Embracing the quietude of the night, this weeb by nature, finds solace in the rhythmic dance of keyboard keys and the hum of a computer running its midnight symphony.
+
+About Me
+🌌 Nighttime Alchemist: Specializing in the art of turning ideas into lines of code when the world is fast asleep.
+
+🌙 Dreamer's Sanctuary: Sleep is reserved for the morning hours, as creativity blossoms when the stars take center stage.
+
+Current Mission
+Embarking on a journey to blend the intricacies of coding with the enchantment of moonlit hours, this coding weeb is on a quest to create magic within the digital realm.
+ 
 
 
 ## 🌐 Socials:
