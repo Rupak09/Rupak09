@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupak09&label=Profile%20views&color=0e75b6&style=flat" alt="rupak09" /> </p>
 
-<img https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhmZTFvd2Rjdnd1cXRvcGhoaGozZ3EyN2l2a2k5ZHk0ZmpxY3UxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif>
+<img align = "right" alt = "Coding"  width = "400 src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhmZTFvd2Rjdnd1cXRvcGhoaGozZ3EyN2l2a2k5ZHk0ZmpxY3UxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif>
 
 - 🔭 I’m currently working on honing my skills to the fullest.
 
