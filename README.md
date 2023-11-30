@@ -46,6 +46,7 @@
 <a href="https://www.leetcode.com/wickspi9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wickspi9" height="30" width="40" /></a>
 <a href="https://discord.gg/god.ryuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="god.ryuk" height="30" width="40" /></a>
 </p>
+<img align="right" alt="Coding" width="350" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47jutb3alxf6ip9oqdbby38j26w655331y0kwjf633&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 
 <br><br>
@@ -59,13 +60,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupak09&show_icons=true&locale=en" alt="rupak09" /></p>
 
+
 <br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupak09&" alt="rupak09" /></p>
 
 
-<iframe align="right" src="https://giphy.com/embed/umYMU8G2ixG5mJBDo5" width="480" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
-<p align="right"><a href="https://giphy.com/gifs/BoschGlobal-coding-home-office-remote-working-umYMU8G2ixG5mJBDo5">via GIPHY</a></p>
 
 
 <br><br>
