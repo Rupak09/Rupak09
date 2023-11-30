@@ -16,7 +16,8 @@
 
 - 🤝 I’m looking for help with **Data Science and DSA.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rupak09/](https://github.com/Rupak09/)
+- 👨‍💻 All of my projects are available at [https://github.com/Rupak09/](https://github.com/Rupak09?tab=repositories/)
+
 
 - 📝 My LinkedIn [https://www.linkedin.com/in/rupak-r/](https://www.linkedin.com/in/rupak-r/)
 
