@@ -63,12 +63,11 @@
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rupak09&show_icons=true&locale=en" alt="rupak09" /></p>
 
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rupak09&" alt="rupak09" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=rupak09&" alt="rupak09" /></p>
 
 
 <br><br>
 
-<br><br>
 
 ### ✍️ Dev Quotes Inspiration
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
