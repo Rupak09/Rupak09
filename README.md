@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rupak R</h1>
+<h1 align="center">Hi 👋, I'm Rupak</h1>
 <h3 align="center">A passionate software development student from India..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupak09&label=Profile%20views&color=0e75b6&style=flat" alt="rupak09" /> </p>
