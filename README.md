@@ -72,7 +72,7 @@
 
 <br><br>
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quotes Inspiration
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
