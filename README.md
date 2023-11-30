@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupak09&label=Profile%20views&color=0e75b6&style=flat" alt="rupak09" /> </p>
 
-<img align="right" alt="Coding" width="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhmZTFvd2Rjdnd1cXRvcGhoaGozZ3EyN2l2a2k5ZHk0ZmpxY3UxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhmZTFvd2Rjdnd1cXRvcGhoaGozZ3EyN2l2a2k5ZHk0ZmpxY3UxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
 
 
@@ -31,7 +31,7 @@
 
 ## <br> Moonlight Coder and Nocturnal Dreamer💻<br>
 
-<img align = "right" alt="Coding2" width="450" src="https://media2.giphy.com/media/TAiOMSf1o7lB54vo2A/giphy.gif?cid=ecf05e47v1ejqsk6lt2x66n1jsb6z5dqoeucikd3050vpzwf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align = "right" alt="Coding2" width="350" src="https://media2.giphy.com/media/TAiOMSf1o7lB54vo2A/giphy.gif?cid=ecf05e47v1ejqsk6lt2x66n1jsb6z5dqoeucikd3050vpzwf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <br> Welcome to the world of a coding enthusiast who thrives in the nocturnal realm, weaving lines of code under the gentle glow of moonlight. Embracing the quietude of the night, this weeb by nature, finds solace in the rhythmic dance of keyboard keys and the hum of a computer running its midnight symphony.<br>
 
 <br>
