@@ -15,7 +15,7 @@
 
 - 📝 My LinkedIn [https://www.linkedin.com/in/rupak-r/](https://www.linkedin.com/in/rupak-r/)
 
-- 💬 You can talk **to me about computer science to stars in the night sky.**
+- 💬 You can talk **to me about computer science, startech, anime stuff etc.**
 
 - 📫 How to reach me **rupakr31@gmail.com**
 
