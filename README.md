@@ -60,12 +60,10 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupak09&show_icons=true&locale=en" alt="rupak09" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rupak09&show_icons=true&locale=en" alt="rupak09" /></p>
 
 
-<br><br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupak09&" alt="rupak09" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rupak09&" alt="rupak09" /></p>
 
 
 
