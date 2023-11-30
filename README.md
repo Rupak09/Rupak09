@@ -1,5 +1,5 @@
 
-[![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhmZTFvd2Rjdnd1cXRvcGhoaGozZ3EyN2l2a2k5ZHk0ZmpxY3UxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)](rupakr.netlify.com)
+[![MasterHead](https://media4.giphy.com/media/3ohhwhkfk92xcM2FzO/giphy.gif?cid=ecf05e47pwa00t1p1jvg2soa9ptfdath649zworqk8e3ad17&ep=v1_gifs_related&rid=giphy.gif&ct=g)](rupakr.netlify.com)
 <h1 align="center">Hi 👋, I'm Rupak</h1>
 <h3 align="center">A passionate software development student from India..</h3>
 
