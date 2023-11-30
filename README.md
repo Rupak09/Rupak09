@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupak09&label=Profile%20views&color=0e75b6&style=flat" alt="rupak09" /> </p>
 
-- 🔭 I’m currently working on [Cipher Crypt](https://github.com/Rupak09/Cipher_Crypt)
+- 🔭 I’m currently working on honing my skills to the fullest.
 
 - 🌱 I’m currently learning **Machine learning and Full-stack dev.**
 
