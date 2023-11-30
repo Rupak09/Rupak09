@@ -30,8 +30,8 @@
 <br><br>
 
 ## <br> Moonlight Coder and Nocturnal Dreamer💻<br>
-<img alt="Coding" width="450" src="https://im2.ezgif.com/tmp/ezgif-2-3251f70f93.gif">
-<img align = "center" alt="Coding" width="450" src="https://media2.giphy.com/media/TAiOMSf1o7lB54vo2A/giphy.gif?cid=ecf05e47v1ejqsk6lt2x66n1jsb6z5dqoeucikd3050vpzwf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img alt="Coding" width="350" src="https://im2.ezgif.com/tmp/ezgif-2-3251f70f93.gif">
+<img align = "right" alt="Coding" width="400" src="https://media2.giphy.com/media/TAiOMSf1o7lB54vo2A/giphy.gif?cid=ecf05e47v1ejqsk6lt2x66n1jsb6z5dqoeucikd3050vpzwf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <br> Welcome to the world of a coding enthusiast who thrives in the nocturnal realm, weaving lines of code under the gentle glow of moonlight. Embracing the quietude of the night, this weeb by nature, finds solace in the rhythmic dance of keyboard keys and the hum of a computer running its midnight symphony.<br>
 
 <br>
