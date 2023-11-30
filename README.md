@@ -40,13 +40,14 @@
 
 
 <h3 align="left">Connect with me:</h3>
+<img align="right" alt="Coding" width="250" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47jutb3alxf6ip9oqdbby38j26w655331y0kwjf633&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+
 <p align="left">
 <a href="https://twitter.com/rupakr31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rupakr31" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rupak r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupak r" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/wickspi9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wickspi9" height="30" width="40" /></a>
 <a href="https://discord.gg/god.ryuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="god.ryuk" height="30" width="40" /></a>
 </p>
-<img align="right" alt="Coding" width="350" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47jutb3alxf6ip9oqdbby38j26w655331y0kwjf633&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 
 <br><br>
