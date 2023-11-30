@@ -26,7 +26,7 @@
 
 - 📄 Know about my experiences [rupakr.netlify.com](rupakr.netlify.com)
 
-- ⚡ Fun fact **Zoro knows the route to LaughTale.**
+- ⚡ Fun fact: **Zoro knows the route to LaughTale.**
 <br><br>
 
 ## <br> Moonlight Coder and Nocturnal Dreamer💻<br>
