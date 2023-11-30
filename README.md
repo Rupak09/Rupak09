@@ -24,8 +24,6 @@
 - ⚡ Fun fact **Zoro knows the route to LaughTale.**
 <br><br>
 
-<br><br>
-
 ## <br> Moonlight Coder and Nocturnal Dreamer💻<br>
 
 <br> Welcome to the world of a coding enthusiast who thrives in the nocturnal realm, weaving lines of code under the gentle glow of moonlight. Embracing the quietude of the night, this weeb by nature, finds solace in the rhythmic dance of keyboard keys and the hum of a computer running its midnight symphony.<br>
@@ -45,7 +43,6 @@
 <a href="https://discord.gg/god.ryuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="god.ryuk" height="30" width="40" /></a>
 </p>
 
-<br><br>
 
 <br><br>
 
@@ -54,7 +51,7 @@
 
 <br><br>
 
-<br><br>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupak09&show_icons=true&locale=en" alt="rupak09" /></p>
 
@@ -66,10 +63,6 @@
 
 
 <br><br>
-
-<br><br>
-
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
