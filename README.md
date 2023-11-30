@@ -31,7 +31,7 @@
 
 ## <br> Moonlight Coder and Nocturnal Dreamer💻<br>
 
-<img align = "right" alt="Coding2" width="400" src="https://media2.giphy.com/media/TAiOMSf1o7lB54vo2A/giphy.gif?cid=ecf05e47v1ejqsk6lt2x66n1jsb6z5dqoeucikd3050vpzwf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align = "right" alt="Coding2" width="340" src="https://media2.giphy.com/media/TAiOMSf1o7lB54vo2A/giphy.gif?cid=ecf05e47v1ejqsk6lt2x66n1jsb6z5dqoeucikd3050vpzwf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <br> Welcome to the world of a coding enthusiast who thrives in the nocturnal realm, weaving lines of code under the gentle glow of moonlight. Embracing the quietude of the night, this weeb by nature, finds solace in the rhythmic dance of keyboard keys and the hum of a computer running its midnight symphony.<br>
 
 <br>
