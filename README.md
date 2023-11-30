@@ -26,7 +26,7 @@
 
 - 📄 Know about my experiences [rupakr.netlify.com](rupakr.netlify.com)
 
-- ⚡ Fun fact: **I use many emoji's while texting..**
+- ⚡ Fav anime: **One piece**
 <br><br>
 
 ## <br> Moonlight Coder and Nocturnal Dreamer💻<br>
