@@ -1,5 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/08/eb/a1/08eba1de6100c1f367c847c512ba0ad4.gif =200x)](URL)
-
+[![MasterHead](https://i.pinimg.com/originals/08/eb/a1/08eba1de6100c1f367c847c512ba0ad4.gif)]()
 <h1 align="center">Hi 👋, I'm Rupak</h1>
 <h3 align="center">A passionate software development student from India..</h3>
 
