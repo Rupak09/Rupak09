@@ -1,4 +1,4 @@
-[![MasterHead](https://im2.ezgif.com/tmp/ezgif-2-6a1cc6fbe3.gif)](rupakr.netlify.com)
+[![MasterHead](https://im2.ezgif.com/tmp/ezgif-2-638ec641b8.gif)](rupakr.netlify.com)
 <h1 align="center">Hi 👋, I'm Rupak</h1>
 <h3 align="center">A passionate software development student from India..</h3>
 
