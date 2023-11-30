@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on honing my skills to the fullest.
 
-- 🌱 I’m currently learning **Machine learning and Full-stack dev.**
+- 🌱 I’m currently learning **Machine learning and Full-stack web.**
 
 - 👯 I’m looking to collaborate on **any project.**
 
