@@ -23,6 +23,17 @@
 
 - ⚡ Fun fact **Zoro knows how the route to LaughTale.**
 
+## <br> Moonlight Coder and Nocturnal Dreamer💻<br>
+
+<br> Welcome to the world of a coding enthusiast who thrives in the nocturnal realm, weaving lines of code under the gentle glow of moonlight. Embracing the quietude of the night, this weeb by nature, finds solace in the rhythmic dance of keyboard keys and the hum of a computer running its midnight symphony.<br>
+
+<br>
+🌌 Nighttime Alchemist: Specializing in the art of turning ideas into lines of code when the world is fast asleep.
+
+🌙 Dreamer's Sanctuary: Sleep is reserved for the morning hours, as creativity blossoms when the stars take center stage.
+<br>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rupakr31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rupakr31" height="30" width="40" /></a>
@@ -40,15 +51,6 @@
 
 
 
-## <br> Moonlight Coder and Nocturnal Dreamer💻<br>
-
-<br> Welcome to the world of a coding enthusiast who thrives in the nocturnal realm, weaving lines of code under the gentle glow of moonlight. Embracing the quietude of the night, this weeb by nature, finds solace in the rhythmic dance of keyboard keys and the hum of a computer running its midnight symphony.<br>
-
-<br>
-🌌 Nighttime Alchemist: Specializing in the art of turning ideas into lines of code when the world is fast asleep.
-
-🌙 Dreamer's Sanctuary: Sleep is reserved for the morning hours, as creativity blossoms when the stars take center stage.
-<br>
 
 
 
