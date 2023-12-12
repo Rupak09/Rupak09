@@ -1,4 +1,4 @@
-[![MasterHead](https://external-preview.redd.it/UVUcyGAFYu-xgS5G4-UZPMJSIPJFqCRVD1AOBDxyS9Y.gif?width=500&height=261.780104712&s=ec12600c3dd00870c4b1e8d38c3d78c3fff78127)](rupakr.netlify.com)
+
 <h1 align="center">Hi 👋, I'm Rupak</h1>
 <h3 align="center">A passionate software development student from India..</h3>
 
