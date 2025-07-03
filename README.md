@@ -47,7 +47,7 @@
 <p align="left">
 <a href="https://twitter.com/rupakr31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rupakr31" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rupak r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupak r" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/wickspi9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wickspi9" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/wickspi9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wickspi9" height="30" width="40" /></a> -->
 <a href="https://discord.gg/god.ryuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="god.ryuk" height="30" width="40" /></a>
 </p>
 
