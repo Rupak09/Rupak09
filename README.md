@@ -1,75 +1,324 @@
+<!-- ========================= -->
 
-<h1 align="center">Hi 👋, I'm Rupak</h1>
-<h3 align="center">A passionate software development student from India..</h3>
+<!--        HERO SECTION       -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rupak09&label=Profile%20views&color=0e75b6&style=flat" alt="rupak09" /> </p>
+<!-- ========================= -->
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhmZTFvd2Rjdnd1cXRvcGhoaGozZ3EyN2l2a2k5ZHk0ZmpxY3UxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
+<div align="center">
 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhmZTFvd2Rjdnd1cXRvcGhoaGozZ3EyN2l2a2k5ZHk0ZmpxY3UxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="180"/>
 
+# 𝑹𝒖𝒑𝒂𝒌
 
-- 🔭 I’m currently working on honing my skills to the fullest.
+### `software developer` • `full-stack` • `AI / LLM systems`
 
-- 🌱 I’m currently learning **Machine learning and Full-stack web.**
+*"Somewhere between code, curiosity and 2 AM."*
 
-- 👯 I’m looking to collaborate on **any project.**
+<br>
 
-- 🤝 I’m looking for help with **Data Science and DSA.**
+<a href="https://github.com/Rupak09">
+<img src="https://img.shields.io/badge/GitHub-Rupak09-161B22?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/rupak-r/">
+<img src="https://img.shields.io/badge/LinkedIn-Rupak%20R-161B22?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:rupakr31@gmail.com">
+<img src="https://img.shields.io/badge/Email-rupakr31%40gmail.com-161B22?style=for-the-badge&logo=gmail"/>
+</a>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rupak09/](https://github.com/Rupak09?tab=repositories/)
-
-
-- 📝 My LinkedIn [https://www.linkedin.com/in/rupak-r/](https://www.linkedin.com/in/rupak-r/)
-
-- 💬 You can talk **to me about computer science, startech, anime stuff etc.**
-
-- 📫 How to reach me **rupakr31@gmail.com**
-
-- 📄 Know about my experiences [rupakr.netlify.com](rupakr.netlify.com)
-
-- ⚡ Fav anime: **One piece**
 <br><br>
 
-## <br> Moonlight Coder and Nocturnal Dreamer💻<br>
+<img src="https://komarev.com/ghpvc/?username=Rupak09&label=profile%20views&color=7c3aed&style=flat-square"/>
 
-<img align = "right" alt="Coding2" width="360" src="https://media2.giphy.com/media/TAiOMSf1o7lB54vo2A/giphy.gif?cid=ecf05e47v1ejqsk6lt2x66n1jsb6z5dqoeucikd3050vpzwf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-<br> Welcome to the world of a coding enthusiast who thrives in the nocturnal realm, weaving lines of code under the gentle glow of moonlight. Embracing the quietude of the night, this weeb by nature, finds solace in the rhythmic dance of keyboard keys and the hum of a computer running its midnight symphony.<br>
+</div>
 
-<br>
-🌌 Nighttime Alchemist: Specializing in the art of turning ideas into lines of code when the world is fast asleep.
+---
 
-🌙 Dreamer's Sanctuary: Sleep is reserved for the morning hours, as creativity blossoms when the stars take center stage.
-<br>
+<!-- ========================= -->
 
+<!--         ABOUT ME          -->
 
-<h3 align="left">Connect with me:</h3>
+<!-- ========================= -->
 
-<p align="left">
-<a href="https://twitter.com/rupakr31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rupakr31" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rupak r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupak r" height="30" width="40" /></a>
-<!-- <a href="https://www.leetcode.com/wickspi9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wickspi9" height="30" width="40" /></a> -->
-<a href="https://discord.gg/god.ryuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="god.ryuk" height="30" width="40" /></a>
+<img align="right" width="360" src="https://media2.giphy.com/media/TAiOMSf1o7lB54vo2A/giphy.gif?cid=ecf05e47v1ejqsk6lt2x66n1jsb6z5dqoeucikd3050vpzwf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
+## 🌙 Who am I?
+
+I'm **Rupak**, a software development student from India.
+
+I like building things, but what interests me even more is understanding **what happens underneath them**.
+
+Not just:
+
+> *"It works."*
+
+but:
+
+> *"Why does it work this way?"*
+
+I'm currently diving deeper into **full-stack development, backend architecture, AI/LLM systems, search, retrieval and ranking.**
+
+I learn best by taking an idea, building it, breaking it, tracing what happened — and rebuilding it better.
+
+<br clear="right"/>
+
+---
+
+## ⚔️ Current Arc
+
+```text
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│   🧩 Full-Stack Development                                │
+│        │                                                   │
+│        ├── Frontend                                         │
+│        ├── APIs                                             │
+│        ├── Backend                                          │
+│        └── Databases                                        │
+│                                                            │
+│   🤖 AI / LLM Systems                                       │
+│        │                                                   │
+│        ├── Retrieval                                        │
+│        ├── Search                                           │
+│        └── Ranking                                          │
+│                                                            │
+│   🏗️ Software Engineering                                  │
+│        │                                                   │
+│        ├── Architecture                                     │
+│        ├── Real-world systems                               │
+│        └── Open-source development                          │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+```
+
+---
+
+# 🔮 What I'm building / exploring
+
+### 🔎 LLM Search & Ranking
+
+Exploring how **products, brands and websites can become more discoverable inside LLM-powered search and retrieval systems.**
+
+I'm particularly interested in the layer between:
+
+```text
+User Query
+     ↓
+Retrieval
+     ↓
+Ranking
+     ↓
+Context
+     ↓
+LLM
+     ↓
+Answer
+```
+
+The interesting question isn't only *"what did the LLM answer?"*
+
+It's:
+
+**"What information did the LLM get to see in the first place?"**
+
+---
+
+### ☕ Full-Stack Systems
+
+I'm going deeper into **Java full-stack development**, backend systems, APIs, databases and application architecture.
+
+I want to understand applications as complete systems rather than isolated technologies.
+
+```text
+        USER
+          │
+          ▼
+     ┌─────────┐
+     │ Frontend│
+     └────┬────┘
+          │
+          ▼
+     ┌─────────┐
+     │   API   │
+     └────┬────┘
+          │
+          ▼
+     ┌─────────┐
+     │ Backend │
+     └────┬────┘
+          │
+          ▼
+     ┌─────────┐
+     │Database │
+     └─────────┘
+```
+
+---
+
+# 🛠️ Arsenal
+
+### Languages
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45"/>
 </p>
 
+### Web & Development
 
-<br><br>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45"/>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Data / AI
 
-<br><br>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45"/>
+</p>
 
+### Tools
 
-## ✍️ Dev Quotes Inspiration
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
+</p>
 
-
-# 📊 GitHub Stats:	
-![](https://github-readme-stats.vercel.app/api?username=Rupak09&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupak09&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)	<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rupak09&theme=tokyonight&hide_border=false)<br/>
-
-<br><br>
 ---
+
+# 🧪 Experiments & Projects
+
+Most of my projects live here:
+
+### → [github.com/Rupak09](https://github.com/Rupak09)
+
+I'm particularly interested in projects involving:
+
+* 🖥️ Full-stack applications
+* ☕ Java backend systems
+* 🤖 AI / ML
+* 🔎 Search & retrieval
+* 📊 Ranking systems
+* 🧠 LLM applications
+* 🧰 Developer tools
+* 🌐 Web applications
+
+---
+
+# 📚 Currently Learning
+
+```text
+Java
+ │
+ ├── Backend
+ │    ├── APIs
+ │    ├── Architecture
+ │    └── Business Logic
+ │
+ ├── Databases
+ │
+ └── Full-Stack Applications
+
+             +
+
+AI / LLM
+ │
+ ├── Retrieval
+ ├── Search
+ ├── Ranking
+ └── Relevance
+```
+
+### The goal?
+
+Not collecting technologies.
+
+**Understanding systems.**
+
+---
+
+# 🌌 The Night Shift
+
+<img align="left" width="280" src="https://media2.giphy.com/media/TAiOMSf1o7lB54vo2A/giphy.gif?cid=ecf05e47v1ejqsk6lt2x66n1jsb6z5dqoeucikd3050vpzwf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
+There is something different about coding when the world goes quiet.
+
+No notifications.
+
+No noise.
+
+Just a screen, a keyboard and a stupid problem that somehow becomes interesting at 2 AM.
+
+I'm naturally a **night owl**, and a lot of my best ideas tend to appear when everyone else has already gone to sleep.
+
+<br clear="left"/>
+
+---
+
+# 🎌 Outside the Terminal
+
+```text
+🌙  Night owl
+🎸  Guitar occasionally enters the storyline
+🏴‍☠️  One Piece enjoyer
+🧠  Constantly curious
+💻  Probably debugging something
+☕  Probably doing it at an unreasonable hour
+```
+
+---
+
+# 📊 GitHub Chronicles
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rupak09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupak09&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rupak09&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📡 Find Me
+
+<div align="center">
+
+<a href="https://github.com/Rupak09">
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rupak-r/">
+<img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rupakr31@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-161B22?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🌙 `Build → Break → Understand → Rebuild`
+
+<br>
+
+**See you on the other side of the screen.**
+
+</div>
