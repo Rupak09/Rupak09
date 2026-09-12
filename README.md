@@ -206,7 +206,7 @@ rupak@zen-midas:~$ uptime
   🌙  Best ideas arrive after midnight
   💻  Keyboard always nearby
   🧠  Curiosity rarely offline
-  🎸  Guitar occasionally interrupts a deploy
+  🎸  Ukulele occasionally interrupts a deploy
   🏴‍☠️  One Piece still undefeated
 ```
 
@@ -221,7 +221,7 @@ rupak@zen-midas:~$ uptime
 
 <div align="center">
 
-| `🏴‍☠️ ONE PIECE` | `🎸 GUITAR` | `🌌 ANIME` |
+| `🏴‍☠️ ONE PIECE` | `🎸 Ukulele` | `🌌 ANIME` |
 |:---:|:---:|:---:|
 | Still undefeated. | Currently trying to make chords sound less like I'm summoning something. | A significant amount of my personality was probably downloaded from anime. |
 
