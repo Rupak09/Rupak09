@@ -184,7 +184,7 @@ Browser  →  Frontend  →  API  →  Controller
 <div align="center">
 
 <!-- Luffy sleeping / night vibes gif -->
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXp5eWN6aGd6aGJ6N3Z6NXVlZTZlNzlubWN3ajZudXpjaXdhNm83aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TAiOMSf1o7lB54vo2A/giphy.gif"/>
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDVuNWttY2MxcTk2YTY2NjdyMTZjOWkwN3hsYzcxNzk2N2ZrMnR3dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SEaKNxJgOfU76/giphy.gif"/>
 
 </div>
 
