@@ -216,7 +216,7 @@ rupak@zen-midas:~$ uptime
 <br>
 
 <!-- Gear 5 Luffy / iconic moment -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQ1ZDM2OWE0ZGNhYjhhY2JmYmI4OGNiZjZlZWQ0NzZmYmNmNTkxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWFmODh6ZnpnMmVhMnpxb2M3M2Fmb2o1bmJiODNpbHR0N2k4bTNiaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rCdzKS756yiGs/giphy.gif" width="220"/>
 
 </div>
 
