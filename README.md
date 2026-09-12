@@ -137,7 +137,7 @@ Browser  →  Frontend  →  API  →  Controller
 <div align="center">
 
 <!-- Zoro serious / training gif -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWkzdHB3aXR4azFvbnA3MHgxNjFsZm91NHU3cnp6dWx6aXR5YWlsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHV0z8S7WM4MwnK/giphy.gif" width="240"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N21nd3h6bWUwcDJ4ZzRjdDlka3U1YXBzOTJpZ2w4dzZzbTVyaW40dCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/jKfujXSFW9rGrY9yYi/giphy.gif" width="240"/>
 
 </div>
 
