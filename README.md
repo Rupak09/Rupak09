@@ -30,7 +30,7 @@
 ```
 
 <!-- One Piece Gear 5 / Luffy laughing gif -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQ1ZDM2OWE0ZGNhYjhhY2JmYmI4OGNiZjZlZWQ0NzZmYmNmNTkxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="260"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDVuNWttY2MxcTk2YTY2NjdyMTZjOWkwN3hsYzcxNzk2N2ZrMnR3dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LvtxIRg1Ly96E/giphy.gif" width="260"/>
 
 </div>
 
@@ -249,7 +249,7 @@ rupak@zen-midas:~$ uptime
 ╚══════════════════════════════════════════╝
 ```
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQ1ZDM2OWE0ZGNhYjhhY2JmYmI4OGNiZjZlZWQ0NzZmYmNmNTkxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="160"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmF3MXV0ZG1zZzc1ZGhnazN2b2ViaHlsdDN3NWtwc2tsamNrODlneSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tuCFp8rod0x3O/giphy.gif" width="160"/>
 
 **`Welcome to my corner of the internet. 🌙`**
 
