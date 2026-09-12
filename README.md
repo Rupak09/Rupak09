@@ -5,18 +5,6 @@
 
 <div align="center">
 
-<!-- Luffy gif — running / determined -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhmZTFvd2Rjdnd1cXRvcGhoaGozZ3EyN2l2a2k5ZHk0ZmpxY3UxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="180"/>
-
-```
-███████╗██╗   ██╗██████╗  █████╗ ██╗  ██╗
-██╔══██╗██║   ██║██╔══██╗██╔══██╗██║ ██╔╝
-██████╔╝██║   ██║██████╔╝███████║█████╔╝ 
-██╔══██╗██║   ██║██╔═══╝ ██╔══██║██╔═██╗ 
-██║  ██║╚██████╔╝██║     ██║  ██║██║  ██╗
-╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝
-```
-
 ### `> Software Developer • Full-Stack • AI / LLM Systems`
 
 *I build things, break things, and get unnecessarily curious about how they work.*
